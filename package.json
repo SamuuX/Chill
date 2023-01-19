@@ -12,7 +12,7 @@
   "author": "mirko93s",
   "license": "Apache-2.0",
   "dependencies": {
-    "@discordjs/opus": "^0.8.0",
+    "@discordjs/opus": "^0.9.0",
     "@discordjs/rest": "^1.0.0",
     "@discordjs/voice": "^0.11.0",
     "@pm2/io": "^5.0.0",
